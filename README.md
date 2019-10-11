@@ -15,26 +15,26 @@
 
 ***|---------|-----------IIC***
 
-***|---------|------------------|-------UNO***
+***|---------|-----------|-------UNO***
 
-***|---------|------------------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
 
 ***|---------|-----------SPI***
 
-***|---------|------------------|-------UNO***
+***|---------|-----------|-------UNO***
 
-***|---------|------------------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
 
 ***|----------SH1106***
 
 ***|---------|-----------IIC***
 
-***|---------|------------------|-------UNO***
+***|---------|-----------|-------UNO***
 
-***|---------|------------------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
 
 ***|---------|-----------SPI***
 
-***|---------|------------------|-------UNO***
+***|---------|-----------|-------UNO***
 
-***|---------|------------------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
