@@ -1,40 +1,57 @@
 # OLED_Arduino
+[English](#1. preparation)       [简体中文](#1.准备工作)
+
 #### 1. preparation
 
 ​	***If you want to modify the code to became other models, you must have make sure already installed [Arduino](https://www.arduino.cc/en/Main/Software) software on your computer.***
 
 ​	***You need download a library named  "u8g2"  on your [Arduino](https://www.arduino.cc/en/Main/Software)*** .
 
+*download method:*
+
+<img src="img/1.png">
+
+<img src="img/2.png">
+
 
 
 #### 2. File composition
 
-****| OLED***
+***OLED***
 
-***|----------SSD1306***
+- ***SSD1306***
+  - ***IIC-------      UNO ,         [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+  - ***SPI------      UNO ,         [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+- ***SH1306***
+  - ***IIC-------      UNO ,        [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+  - ***SPI------      UNO ,        [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
 
-***|---------|-----------IIC***
 
-***|---------|-----------|-------UNO***
 
-***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+简体中文
 
-***|---------|-----------SPI***
+#### 1.准备工作
 
-***|---------|-----------|-------UNO***
+​	1）如果你想要以修改代码的形式选择其他型号的显示屏，你必须确保你的电脑上已经安装了[Arduino](https://www.arduino.cc/en/Main/Software) 软件。
 
-***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+​	2）你还需要在你的 [Arduino](https://www.arduino.cc/en/Main/Software)上面安装一个叫做“u8g2” 的库。
 
-***|----------SH1106***
+库的安装方法：
 
-***|---------|-----------IIC***
+<img src="img/1.png">
 
-***|---------|-----------|-------UNO***
 
-***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
 
-***|---------|-----------SPI***
+<img src="img/2.png">
 
-***|---------|-----------|-------UNO***
+#### 2. 文件位置分布
 
-***|---------|-----------|-------[ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+***OLED***
+
+- ***SSD1306***
+  - ***IIC-------      UNO ,         [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+  - ***SPI------      UNO ,         [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+- ***SH1306***
+  - ***IIC-------      UNO ,        [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+  - ***SPI------      UNO ,        [ESP32(Wireless Stick Lite)](https://heltec.org/project/wireless-stick-lite/)***
+
