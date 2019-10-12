@@ -1,5 +1,5 @@
 # OLED_Arduino
-[preparation](#preparation)       [准备工作](#准备工作)
+[English](#preparation)       [简体中文](#准备工作)
 
 #### preparation
 
