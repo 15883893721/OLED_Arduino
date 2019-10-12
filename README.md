@@ -1,7 +1,7 @@
 # OLED_Arduino
-[English](#1. preparation)       [简体中文](#1.准备工作)
+[preparation](#preparation)       [准备工作](#准备工作)
 
-#### 1. preparation
+#### preparation
 
 ​	***If you want to modify the code to became other models, you must have make sure already installed [Arduino](https://www.arduino.cc/en/Main/Software) software on your computer.***
 
@@ -15,7 +15,7 @@
 
 
 
-#### 2. File composition
+####  File composition
 
 ***OLED***
 
@@ -30,7 +30,7 @@
 
 简体中文
 
-#### 1.准备工作
+#### 准备工作
 
 ​	1）如果你想要以修改代码的形式选择其他型号的显示屏，你必须确保你的电脑上已经安装了[Arduino](https://www.arduino.cc/en/Main/Software) 软件。
 
@@ -44,7 +44,7 @@
 
 <img src="img/2.png">
 
-#### 2. 文件位置分布
+#### 文件位置分布
 
 ***OLED***
 
