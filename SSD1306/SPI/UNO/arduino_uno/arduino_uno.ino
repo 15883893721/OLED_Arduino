@@ -233,7 +233,7 @@ void loop() {
     u8g2.clearBuffer();         // 清除内部缓冲区
      u8g2.setFont(u8g2_font_ncenB08_tr); // choose a suitable font
      u8g2.drawStr(20,15,"Hello World!");  // write something to the internal memory
-     u8g2.drawStr(5,35,"Heltec Automation");  // write something to the internal memory
+     u8g2.drawStr(5,35,"JasonTec Automation");  // write something to the internal memory
      u8g2.drawStr(30,60,"2019_9_25");
   u8g2.sendBuffer();          // transfer internal memory to the display
   delay(2000); 
